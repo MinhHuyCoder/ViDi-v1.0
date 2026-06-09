@@ -15,8 +15,10 @@
 - Nguyễn Duy Khang
 
 ## Chức năng chính
+
 - Authentication
 - Place Management
+- Search & Filter
 - Review & Rating
-- Wishlist
 - Google Maps
+- Wishlist
